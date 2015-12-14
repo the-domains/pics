@@ -1,7 +1,7 @@
 name: pics
 favicon: null
-layout_spectrum: 0.0635356183629483
-typography_spectrum: 0.9854823390487581
+layout_spectrum: 0
+typography_spectrum: 0.86514
 title: 'pictures, mostly from traveling across the world'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5774072795175016
+  brandStrength: 0.5
   lightness: 0.9693582344334573
   saturation: 0.0038629521150141954
   rhythmicContrast: 0.8127190165687352
